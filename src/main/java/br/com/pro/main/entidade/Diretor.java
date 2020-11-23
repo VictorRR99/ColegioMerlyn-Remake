@@ -23,11 +23,11 @@ public class Diretor extends Pessoa implements Serializable {
 	/* Serialization Handler */
 
 	public static void serialization() {
-		saveObjectList(listaDiretores, "Diretores");
+		
 	}
 	
 	public static void desserialization() {
-		readObjectList("Diretores");
+		
 	}
 	
 	private static void saveObjectList(List<Diretor> lista, String nomeArq) {
