@@ -1,4 +1,4 @@
-package br.com.projeto.ColegioMerlyn;
+package br.com.pro.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
